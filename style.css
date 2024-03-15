@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+    width: 98vw;
+    margin: 10px auto;
+}
+
+div {
+    margin: 10px;
+}
