@@ -1,7 +1,7 @@
 ### Jogo das Palavras
 
 #### Descrição
-O "Jogo das Palavras" é um projeto de aplicativo web interativo desenvolvido em HTML, CSS e JavaScript. O jogo desafia os usuários a adivinharem palavras ocultas, oferecendo uma experiência de jogo envolvente e educativa.
+O "Jogo da Forca" é um projeto de aplicativo web interativo desenvolvido em HTML, CSS e JavaScript. O jogo desafia os usuários a adivinharem palavras ocultas, oferecendo uma experiência de jogo envolvente e educativa.
 
 #### Recursos e Funcionalidades
 - Interface intuitiva e amigável.
