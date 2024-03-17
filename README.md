@@ -27,7 +27,7 @@ O "Jogo da Forca" é um projeto de aplicativo web interativo desenvolvido em HTM
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue relatando problemas, sugerir melhorias ou enviar pull requests.
 
 #### Autor
-Este projeto foi desenvolvido por [Seu Nome].
+Este projeto foi desenvolvido por Arthur Frossard.
 
 #### Licença
 Este projeto está licenciado sob a Licença [Nome da Licença]. Consulte o arquivo LICENSE.md para obter mais informações.
